@@ -16,7 +16,7 @@ If you use our work, please cite:
 ## Installation
 
 ```python
-git clone https://github.com/oxpig/CaLM
+git clone https://github.com/betteromics/CaLM
 python setup.py install
 ```
 
